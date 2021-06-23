@@ -1,11 +1,48 @@
 {
-  "posts": [
+  "employee": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Pedro Pascal",
+      "username": "ppascal"
+    },
+    {
+      "id": 2,
+      "name": "Lina Martinez",
+      "username": "lmartinez"
+    },
+    {
+      "id": 3,
+      "name": "Luis Moreno",
+      "username": "lmoreno"
+    },
+    {
+      "id": 4,
+      "name": "Juan Aviles",
+      "username": "javiles"
     }
+    
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "joboffer":  [
+    {
+      "id": 1,
+      "title": "Oferta 1",
+      "description": "Oferta laboral para 1"
+    },
+    {
+      "id": 2,
+     "title": "Oferta 2",
+      "description": "Oferta laboral para 2"
+    },
+    {
+      "id": 3,
+      "title": "Oferta 3",
+      "description": "Oferta laboral para 3"
+    },
+    {
+      "id": 4,
+      "title": "Oferta 4",
+      "description": "Oferta laboral para 4"
+    }
+    
+  ]
 }
