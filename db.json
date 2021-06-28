@@ -25,21 +25,29 @@
   "joboffer":  [
     {
       "id": 1,
+      "employer": 1,
+      "gender": "F",
       "title": "Oferta 1",
       "description": "Oferta laboral para 1"
     },
     {
       "id": 2,
+      "employer": 2,
+      "gender": "M",
      "title": "Oferta 2",
       "description": "Oferta laboral para 2"
     },
     {
       "id": 3,
+      "employer": 3,
+      "gender": "F",
       "title": "Oferta 3",
       "description": "Oferta laboral para 3"
     },
     {
       "id": 4,
+      "employer": 4,
+      "gender": "M",
       "title": "Oferta 4",
       "description": "Oferta laboral para 4"
     }
