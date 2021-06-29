@@ -52,5 +52,12 @@
       "description": "Oferta laboral para 4"
     }
     
+  ],
+  "application": [
+    {
+      "id": 1,
+      "jobOfferId":1,
+      "employeeId": 1
+    }
   ]
 }
