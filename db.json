@@ -20,43 +20,109 @@
       "name": "Juan Aviles",
       "username": "javiles"
     }
-    
   ],
-  "joboffer":  [
+  "joboffer": [
     {
       "id": 1,
-      "employer": 1,
-      "gender": "F",
       "name": "Oferta 1",
-      "description": "Oferta laboral para 1"
+      "description": "Descripción Oferta Laboral 1",
+      "status": "Published",
+      "gender": null,
+      "salary": 500,
+      "available_Vacans": 1,
+      "date_Begin": "2021-08-27T04:00:00.000+00:00",
+      "date_End": "2021-08-28T04:00:00.000+00:00",
+      "min_Age": null,
+      "max_Age": null,
+      "employer_Id": 3,
+      "employer": {
+        "id": 3,
+        "name": "Linkbridge",
+        "user_id": 3
+      },
+      "location": {
+        "id": 24,
+        "name": "Venezuela"
+      },
+      "location_Id": 24
     },
     {
       "id": 2,
-      "employer": 2,
-      "gender": "M",
-     "name": "Oferta 2",
-      "description": "Oferta laboral para 2"
+      "name": "Oferta 2",
+      "description": "Descripción Oferta Laboral 2",
+      "status": "Published",
+      "gender": null,
+      "salary": 423.2,
+      "available_Vacans": 1,
+      "date_Begin": "2021-08-27T04:00:00.000+00:00",
+      "date_End": "2021-08-28T04:00:00.000+00:00",
+      "min_Age": null,
+      "max_Age": null,
+      "employer_Id": 3,
+      "employer": {
+        "id": 3,
+        "name": "Linkbridge",
+        "user_id": 3
+      },
+      "location": {
+        "id": 24,
+        "name": "Venezuela"
+      },
+      "location_Id": 24
     },
     {
       "id": 3,
-      "employer": 3,
-      "gender": "F",
       "name": "Oferta 3",
-      "description": "Oferta laboral para 3"
+      "description": "Descripción Oferta Laboral 3",
+      "status": "Published",
+      "gender": null,
+      "salary": 1000,
+      "available_Vacans": 1,
+      "date_Begin": "2021-08-27T04:00:00.000+00:00",
+      "date_End": "2021-08-28T04:00:00.000+00:00",
+      "min_Age": null,
+      "max_Age": null,
+      "employer_Id": 3,
+      "employer": {
+        "id": 3,
+        "name": "Linkbridge",
+        "user_id": 3
+      },
+      "location": {
+        "id": 24,
+        "name": "Venezuela"
+      },
+      "location_Id": 24
     },
     {
       "id": 4,
-      "employer": 4,
-      "gender": "M",
       "name": "Oferta 4",
-      "description": "Oferta laboral para 4 Oferta laboral para 4 Oferta laboral para 4 Oferta laboral para 4"
+      "description": "Descripción Oferta Laboral 4",
+      "status": "Published",
+      "gender": null,
+      "salary": 1000,
+      "available_Vacans": 1,
+      "date_Begin": "2021-08-27T04:00:00.000+00:00",
+      "date_End": "2021-08-28T04:00:00.000+00:00",
+      "min_Age": null,
+      "max_Age": null,
+      "employer_Id": 3,
+      "employer": {
+        "id": 3,
+        "name": "Linkbridge",
+        "user_id": 3
+      },
+      "location": {
+        "id": 24,
+        "name": "Venezuela"
+      },
+      "location_Id": 24
     }
-    
   ],
   "application": [
     {
       "id": 1,
-      "jobOfferId":1,
+      "jobOfferId": 1,
       "employeeId": 1
     }
   ]
