@@ -28,7 +28,7 @@
       "description": "Descripción Oferta Laboral 1",
       "status": "Published",
       "gender": null,
-      "salary": 500,
+      "salary": 500.0,
       "available_Vacans": 1,
       "date_Begin": "2021-08-27T04:00:00.000+00:00",
       "date_End": "2021-08-28T04:00:00.000+00:00",
