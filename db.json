@@ -141,5 +141,14 @@
       "jobOfferId": 1,
       "employeeId": 1
     }
+  ],
+  "applications":[
+    {
+      "id":1,
+      "employeeId": 1,
+      "jobApplications": [
+        1, 2
+      ]
+    }
   ]
 }
