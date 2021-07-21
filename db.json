@@ -150,5 +150,34 @@
         1, 2
       ]
     }
+  ],
+  "interviews":[
+    {
+      "id":1,
+      "date": "2021-07-27T04:00:00.000+00:00",
+      "accessURL":"google.meet",
+      "status":"Available",
+      "duration": "1"
+    },
+    {
+      "id":2,
+      "date": "2021-07-27T04:00:00.000+00:00",
+      "accessURL":"google.meet",
+      "status":"Available",
+      "duration": "1"
+    },{
+      "id":3,
+      "date": "2021-07-26T04:00:00.000+00:00",
+      "accessURL":"google.meet",
+      "status":"Available",
+      "duration": "1"
+    },{
+      "id":4,
+      "date": "2021-07-26T04:00:00.000+00:00",
+      "accessURL":"google.meet",
+      "status":"Available",
+      "duration": "1"
+    }
   ]
+
 }
