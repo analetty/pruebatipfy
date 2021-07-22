@@ -45,10 +45,7 @@
         "name": "Venezuela"
       },
       "location_Id": 24,
-      "skills": [
-        "skil1",
-        "skill2"
-      ]
+      "skills": ["skil1", "skill2"]
     },
     {
       "id": 2,
@@ -73,10 +70,7 @@
         "name": "Venezuela"
       },
       "location_Id": 24,
-      "skills": [
-        "skil1",
-        "skill2"
-      ]
+      "skills": ["skil1", "skill2"]
     },
     {
       "id": 3,
@@ -101,10 +95,7 @@
         "name": "Venezuela"
       },
       "location_Id": 24,
-      "skills": [
-        "skil1",
-        "skill2"
-      ]
+      "skills": ["skil1", "skill2"]
     },
     {
       "id": 4,
@@ -129,10 +120,7 @@
         "name": "Venezuela"
       },
       "location_Id": 24,
-      "skills": [
-        "skil1",
-        "skill2"
-      ]
+      "skills": ["skil1", "skill2"]
     }
   ],
   "application": [
@@ -142,42 +130,59 @@
       "employeeId": 1
     }
   ],
-  "applications":[
+  "applications": [
     {
-      "id":1,
+      "id": 1,
       "employeeId": 1,
-      "jobApplications": [
-        1, 2
-      ]
+      "jobApplications": [1, 2]
+    },
+
+    {
+      "id": 2,
+      "employeeId": 1,
+      "jobApplications": [1, 2]
+    },
+
+    {
+      "id": 3,
+      "employeeId": 1,
+      "jobApplications": [1, 2]
+    },
+
+    {
+      "id": 4,
+      "employeeId": 1,
+      "jobApplications": [1, 2]
     }
   ],
-  "interviews":[
+  "interviews": [
     {
-      "id":1,
+      "id": 1,
       "date": "2021-07-27T04:00:00.000+00:00",
-      "accessURL":"google.meet",
-      "status":"Available",
+      "accessURL": "google.meet",
+      "status": "Available",
       "duration": "1"
     },
     {
-      "id":2,
+      "id": 2,
       "date": "2021-07-27T04:00:00.000+00:00",
-      "accessURL":"google.meet",
-      "status":"Available",
+      "accessURL": "google.meet",
+      "status": "Available",
       "duration": "1"
-    },{
-      "id":3,
+    },
+    {
+      "id": 3,
       "date": "2021-07-26T04:00:00.000+00:00",
-      "accessURL":"google.meet",
-      "status":"Available",
+      "accessURL": "google.meet",
+      "status": "Available",
       "duration": "1"
-    },{
-      "id":4,
+    },
+    {
+      "id": 4,
       "date": "2021-07-26T04:00:00.000+00:00",
-      "accessURL":"google.meet",
-      "status":"Available",
+      "accessURL": "google.meet",
+      "status": "Available",
       "duration": "1"
     }
   ]
-
 }
