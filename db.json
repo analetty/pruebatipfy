@@ -133,26 +133,34 @@
   "applications": [
     {
       "id": 1,
-      "employeeId": 1,
-      "jobApplications": [1, 2]
+      "employee": 1,
+      "application_Date": "2021-01-01",
+      "jobOffer": { "id": 1 },
+      "status": 0
     },
 
     {
       "id": 2,
-      "employeeId": 1,
-      "jobApplications": [1, 2]
+      "employee": 1,
+      "application_Date": "2021-01-01",
+      "jobOffer": { "id": 3 },
+      "status": 1
     },
 
     {
       "id": 3,
-      "employeeId": 1,
-      "jobApplications": [1, 2]
+      "employee": 1,
+      "application_Date": "2021-01-01",
+      "jobOffer": { "id": 2 },
+      "status": 0
     },
 
     {
       "id": 4,
-      "employeeId": 1,
-      "jobApplications": [1, 2]
+      "employee": 1,
+      "application_Date": "2021-01-01",
+      "jobOffer": { "id": 4 },
+      "status": 2
     }
   ],
   "interviews": [
