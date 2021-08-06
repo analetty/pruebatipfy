@@ -133,7 +133,7 @@
   "applications": [
     {
       "id": 1,
-      "employee": 1,
+      "employee": { "id": 1 },
       "application_Date": "2021-01-01",
       "jobOffer": { "id": 1 },
       "status": 0
@@ -141,7 +141,7 @@
 
     {
       "id": 2,
-      "employee": 1,
+      "employee": { "id": 1 },
       "application_Date": "2021-01-01",
       "jobOffer": { "id": 3 },
       "status": 1
@@ -149,7 +149,7 @@
 
     {
       "id": 3,
-      "employee": 1,
+      "employee": { "id": 1 },
       "application_Date": "2021-01-01",
       "jobOffer": { "id": 2 },
       "status": 0
@@ -157,7 +157,7 @@
 
     {
       "id": 4,
-      "employee": 1,
+      "employee": { "id": 1 },
       "application_Date": "2021-01-01",
       "jobOffer": { "id": 4 },
       "status": 2
